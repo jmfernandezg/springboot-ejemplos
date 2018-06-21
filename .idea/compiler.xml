@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-conversor-moneda" />
+        <module name="microserviceeureka" />
+        <module name="microserviceforex" />
+        <module name="springbootconf" />
+        <module name="springbootdatajparest" />
+        <module name="springboothibernateh2" />
+        <module name="springbootjdbch2" />
+        <module name="springbootmybatish2" />
+        <module name="springbootrest" />
+        <module name="springbootrestexception" />
+        <module name="springbootrestfilter" />
+        <module name="springbootresthateoas" />
+        <module name="springbootrestswagger" />
+        <module name="springbootresttests" />
+        <module name="springbootrestvalidation" />
+        <module name="springbootrestversioning" />
+        <module name="springbootsoap" />
+        <module name="springbootweb" />
+        <module name="springbootwebbootstrap" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="microserviceconversormoneda" target="1.8" />
+      <module name="springbootmicroservicecc" target="1.8" />
+      <module name="springbootmicroserviceccfx" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
